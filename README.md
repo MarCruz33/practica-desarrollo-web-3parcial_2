@@ -1,10 +1,22 @@
-# Práctica 3er Parcial - Desarrollo Web Integral 2026
+# Turismo Aventura - Sitio Web
 
-## Integrantes del Equipo:
-- Mary - Página Inicio
-- Alexis - Página Nosotros
-- Jenn - Página Galería
-- Abdi - Página Productos
+## Descripción
+Sitio web de turismo desarrollado como práctica colaborativa para la asignatura de Desarrollo Web Integral.
 
-## Descripción del Proyecto
-Sitio web corporativo para una pequeña empresa, desarrollado colaborativamente con Git y GitHub.
+## Integrantes del Equipo
+- **Mary** - Login e Inicio
+- **Alexis** - Nosotros
+- **Jenn** - Galería
+- **Abdi** - Productos/Servicios
+
+## Tecnologías Utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## APIs Consumidas
+- JSONPlaceholder (Usuarios)
+- Clima (simulado)
+
+## Estructura del Proyecto
