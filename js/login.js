@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const username = document.getElementById('username').value;
         const password = document.getElementById('password').value;
 
-        // Validación simple (credenciales: Maria vazquez/1234)
-        if (username === 'Maria vazquez' && password === '1234') {
+        // Validación simple (credenciales: admin/1234)
+        if (username === 'admin' && password === '1234') {
             // Redirigir al menú principal
             window.location.href = 'index.html';
         } else {
